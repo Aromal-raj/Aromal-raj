@@ -27,7 +27,7 @@ class AromalRaj:
         self.degree     = "B.Tech - Electronics & Communication Engineering"
         self.interests  = ["Embedded Systems", "IoT", "Machine Learning", "Signal Processing"]
         self.languages  = ["Python", "Embedded C", "MATLAB"]
-        self.tools      = ["Arduino", "Raspberry Pi", "VS Code", "Git"]
+        self.tools      = ["Arduino", "VS Code", "Git"]
         self.currently  = "Building cool embedded + ML projects 🚀"
 
     def say_hi(self):
@@ -50,13 +50,10 @@ me.say_hi()
 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
